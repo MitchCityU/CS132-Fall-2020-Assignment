@@ -1,0 +1,13 @@
+C:\Users\mitch\source\repos\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.exe
+C:\Users\mitch\source\repos\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.deps.json
+C:\Users\mitch\source\repos\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.runtimeconfig.json
+C:\Users\mitch\source\repos\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.runtimeconfig.dev.json
+C:\Users\mitch\source\repos\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.dll
+C:\Users\mitch\source\repos\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.pdb
+C:\Users\mitch\source\repos\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.csprojAssemblyReference.cache
+C:\Users\mitch\source\repos\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.AssemblyInfoInputs.cache
+C:\Users\mitch\source\repos\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.AssemblyInfo.cs
+C:\Users\mitch\source\repos\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.csproj.CoreCompileInputs.cache
+C:\Users\mitch\source\repos\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.dll
+C:\Users\mitch\source\repos\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.pdb
+C:\Users\mitch\source\repos\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.genruntimeconfig.cache
